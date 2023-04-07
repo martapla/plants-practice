@@ -1,14 +1,9 @@
-# Vite Vue Starter
+# Vue project
 
-This is a project template using [Vite](https://vitejs.dev/). It requires [Node.js](https://nodejs.org) v12+.
+This is a project where I am practising: defineProps({}) 🌵 v-for 🌵 v-bind
 
-To start:
 
-```sh
-npm install
-npm run dev
+This time the theme I choose are plants 🍀🍀🍀
 
-# if using yarn:
-yarn
-yarn dev
-```
+
+![Screenshot 2023-04-07 at 13 31 47](https://user-images.githubusercontent.com/101716371/230601945-7669ea91-ac26-4b58-a000-5907894bbca4.png)
