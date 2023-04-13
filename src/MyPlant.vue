@@ -20,7 +20,7 @@ const props = defineProps({
   title: {
     type: String,
     required: false,
-    default: " 🐠 ",
+    default: "  🐌 ",
   },
   nameprops: {
     type: Object,
@@ -39,50 +39,44 @@ const props = defineProps({
 
 h1 {
   color: rgb(38, 210, 135);
-  margin: 100px;
+  margin-bottom: 100px;
   font-size: 80px;
 }
 
 h2 {
-  color: green;
-  font-size: 30px;
+  color: rgb(183, 63, 99);
+  font-size: 32px;
 }
 
 .container {
   display: flex;
   flex-direction: row;
   justify-content: center;
-  align-items: center;
   height: 400px;
   width: 80%;
   margin: 0 auto;
-  border: 1px solid rgb(229, 219, 229);
-
-}
-
-.box-name {
-  border: 1px solid rgb(255, 225, 0);
 }
 
 .box-img-desc {
-  border: 1px solid rgb(235, 71, 224);
   display: flex;
   flex-direction: row;
   justify-content: center;
   align-items: center;
   padding:20px;
-  height: 300px;
+  height: 390px;
   width:80%;
 }
 
 img {
   width: 60%;
-  height: 60%;
+  height: 120%;
   border-radius: 50%;
   border: 4px solid greenyellow;
 }
 .description {
   width: 50%;
-  border: 1px solid rgb(38, 37, 38);
+  margin-left: 30px;
+  color:white;
+  font-size: 25px;
 }
 </style>

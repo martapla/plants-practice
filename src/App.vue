@@ -34,9 +34,6 @@ const plantList = ref([
 </script>
 
 <style >
-*{
-  /* border: 1px solid green; */
-}
 
 body {
   display: flex;
@@ -45,8 +42,8 @@ body {
   text-align: center;
   height: 100%;
   width: 100%;
-  margin: 0 auto;
+  margin-bottom: 50px;
   background-color: rgb(244, 201, 186);
- 
 }
+
 </style>
