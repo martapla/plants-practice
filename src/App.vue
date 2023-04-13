@@ -5,14 +5,15 @@
     <MyPlant  :nameprops="plantList[1]" />
     <MyPlant  :nameprops="plantList[2]" />
 
-    
+    <!-- Plant List shown with v-for: -->
+    <!-- <MyPlant  v-for="(plantArr,index) in plantList" :key="index" :nameprops="plantArr"/> -->    
 
   </body>
 </template>
 
 <script setup>
 import { ref } from 'vue';
-import MyPlant from './MyPlant.vue';
+import MyPlant from './components/MyPlant.vue';
 
 const plantList = ref([
   {

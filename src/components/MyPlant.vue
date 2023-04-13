@@ -33,9 +33,6 @@ const props = defineProps({
 </script>
 
 <style >
-* {
-  /* border: 1px solid red; */
-}
 
 h1 {
   color: rgb(38, 210, 135);
