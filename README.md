@@ -1,9 +1,11 @@
-# Vue project
+# Vue Project
 
-This is a project where I am practising: defineProps({}) 🌵 v-for 🌵 v-bind
-
-
-This time the theme I choose are plants 🍀🍀🍀
+This is a project where I'm practicing: defineProps({}) Parent 👨👩‍👦👦 Child / v-for 🌵 v-bind /
 
 
-![Screenshot 2023-04-07 at 13 31 47](https://user-images.githubusercontent.com/101716371/230601945-7669ea91-ac26-4b58-a000-5907894bbca4.png)
+
+This time the theme I've chosen are plants 🍀🍀🍀
+
+
+
+![Screenshot 2023-04-14 at 00 00 50](https://user-images.githubusercontent.com/101716371/231895709-ce2ef0f3-7d42-4b9f-b4ff-207ce0d25074.png)
